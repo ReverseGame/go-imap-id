@@ -1,7 +1,7 @@
 package id
 
 import (
-	"github.com/emersion/go-imap/server"
+	"github.com/ReverseGame/go-imap/server"
 )
 
 type Conn interface {

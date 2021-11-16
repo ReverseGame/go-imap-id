@@ -1,7 +1,7 @@
 package id
 
 import (
-	"github.com/emersion/go-imap"
+	"github.com/ReverseGame/go-imap"
 )
 
 // An ID command.
